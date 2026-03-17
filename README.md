@@ -4,17 +4,17 @@
 
 ## 📂 Estructura del proyecto
 
-### 🔹 A01 - Clase Hora
+### 📄 A01 - Clase Hora
 Clase que representa una hora con horas y minutos.
 
-### 🔹 A02 - HoraExacta
+### 📄 A02 - HoraExacta
 Extiende la clase Hora añadiendo segundos.
 
-### 🔹 A03 - Método equals()
+### 📄 A03 - Método equals()
 Permite comparar dos objetos HoraExacta.
 
-### 🔹 A04 - Clase abstracta Instrumento
+### 📄 A04 - Clase abstracta Instrumento
 Representa un instrumento musical.
 
-### 🔹 A05 - Clase Piano
+### 📄 A05 - Clase Piano
 Subclase que implementa Instrumento.
